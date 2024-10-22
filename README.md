@@ -1,4 +1,4 @@
-<img src="./DREAMS.png">
+<img src="./DREAMS.jpg">
 
 <h1>Обо мне</h1>
 
