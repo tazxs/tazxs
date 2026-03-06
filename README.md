@@ -4,11 +4,7 @@
 
 🔭 ... Full-stack разработчик и crypto-трейдер <br>
 
-🌱 ... Улучшаю свой скиллы изучая Rust,Go
-
 👯 ... Активно занимаюсь трейдингом криптовалют и Форекса <br>
-
-🤔 ... Становлюсь лучше каждый день <br>
 
 <br>
 
@@ -29,13 +25,5 @@
 </a>
 </p>
 
-⚡ Fun fact: я смотрю много фильмов
-
 <hr>
-
-<h2>📫 Связь со мной
-  <a href="https://www.instagram.com/dangir_bai/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</h2>
 <br>
