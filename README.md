@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Developer%20·%20Quant%20·%20Full-Stack%20Engineer&descAlignY=60&descColor=60a5fa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20[Toha%20>3]%20👋&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Developer%20·%20Quant%20·%20Full-Stack%20Engineer&descAlignY=60&descColor=60a5fa&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Quantitative+Engineer+%F0%9F%93%88;C%2B%2B+%7C+Go+%7C+Python+%7C+TypeScript;Building+fast+systems+%26+smart+strategies;Ship+first%2C+optimize+later+%E2%9A%A1" alt="Typing SVG" />
