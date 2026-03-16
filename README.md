@@ -70,24 +70,11 @@ const me = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=tazxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&langs_count=8"/>
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tazxz&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tazxz&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
 
 ---
 
