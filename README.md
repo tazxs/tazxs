@@ -66,18 +66,6 @@ const me = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=tazxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&langs_count=8"/>
-
-</div>
-
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 </div>
