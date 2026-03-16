@@ -77,7 +77,7 @@ const me = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tazxz&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -86,7 +86,7 @@ const me = {
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tazxz&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
